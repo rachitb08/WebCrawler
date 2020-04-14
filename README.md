@@ -26,5 +26,3 @@ Response should be in json format:
 }
 
 Api endpoint : /api/extractUrl?url=https:/www.geeksforgeeks.org&depth=2
-
-
